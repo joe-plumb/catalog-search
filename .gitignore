@@ -25,4 +25,9 @@
 /.nb-gradle/ 
 
 ### spring ###
-application*.properties 
+application*.properties
+*.crt
+*.csr
+*.p12
+*.key
+*.old
